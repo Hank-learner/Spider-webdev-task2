@@ -4,7 +4,7 @@ Virtual host is being used in this application
 
 Ubuntu despktop's apache2 is used to test this application, working fine.
 
-####raw php and vanilla js is used to build this application
+#### raw php and vanilla js is used to build this application
 
 ### sets of pages
 0. start by creating a sql database manually (an a user if you want or using root user) 
