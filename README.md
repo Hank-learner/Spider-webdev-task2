@@ -10,7 +10,7 @@ Ubuntu despktop's apache2 is used to test this application, working fine.
 0. start by creating a sql database manually (an a user if you want or using root user) 
 which is given in  sqlinitialisation.sql file
 1. index  = index.php,index.css,index.js,login.php
-2. home = home.php,about.css,homephp.php
+2. home = home.php,about.css,home.js,homephp.php
 3. dashboard = dashboard.php,dashboardphp.php,dashboard.js,about.css
 
 ### update  mysql user ,password in login.php and dashboard.php before starting
