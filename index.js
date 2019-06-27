@@ -73,14 +73,4 @@ function signupfunction (event) {
   event.preventDefault ();
 }
 
-// var hashvalue;
-// function hashdata () {
-//   var xmlhttp = new XMLHttpRequest ();
-//   xmlhttp.onreadystatechange = function () {
-//     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-//       hashvalue = xmlhttp.responseText;
-//     }
-//   };
-//   xmlhttp.open ('GET', 'hash.php');
-//   xmlhttp.send ();
-// }
+
